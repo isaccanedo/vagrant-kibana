@@ -46,7 +46,7 @@ in which case you can run:
 
 ```sh
 git clone https://github.com/isaccanedo/vagrant-kibana.git
-cd learn-kibana
+cd vagrant-kibana
 vagrant up
 ```
 That's *it*! After a few minutes you will have a working Kibana instance!
