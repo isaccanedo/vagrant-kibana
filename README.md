@@ -45,7 +45,7 @@ floating around the Internet.
 in which case you can run:
 
 ```sh
-git clone https://github.com/nelsonic/learn-kibana.git
+git clone https://github.com/isaccanedo/vagrant-kibana.git
 cd learn-kibana
 vagrant up
 ```
